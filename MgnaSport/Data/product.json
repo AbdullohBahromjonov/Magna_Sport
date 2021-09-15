@@ -1,0 +1,342 @@
+[
+    {
+        "id": 1,
+        "category": "Gloves",
+        "name": "Gloves Dark Red",
+        "image": "dark red",
+        "price": 49,
+        "description": "Everlast® Pro Style Elite Gloves are ideal for sparring, heavy bag & mitt workouts. They fuature premium synthetic leather along with superior construction increases durability. Get the most out of your next workout whether you're sparring or workin to increase your strength and cardio endurance.",
+        "backgroundColor": "dark red",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    },
+    {
+        "id": 2,
+        "category": "Gloves",
+        "name": "Gloves Red",
+        "image": "red",
+        "price": 49,
+        "description": "Everlast® Pro Style Elite Gloves are ideal for sparring, heavy bag & mitt workouts. They feature premium synthetic leather along with superior construction increases durability. Get the most out of your nest workout whether you're sparring or working to increase your strength and cardio endurance.",
+        "backgroundColor": "red",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    },
+    {
+        "id": 3,
+        "category": "Gloves",
+        "name": "Gloves Red Black",
+        "image": "red black",
+        "price": 49,
+        "description": "Everlast® Pro Style Elite Gloves are ideal for sparring, heavy bag & mitt workouts. They feature premium synthetic leather along with superior construction increases durability. Get the most out of your nest workout whether you're sparring or working to increase your strength and cardio endurance.",
+        "backgroundColor": "orange",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    },
+    {
+        "id": 4,
+        "category": "Gloves",
+        "name": "Gloves Blue Pink",
+        "image": "blue pink",
+        "price": 49,
+        "description": "Everlast® Pro Style Elite Gloves are ideal for sparring, heavy bag & mitt workouts. They feature premium synthetic leather along with superior construction increases durability. Get the most out of your nest workout whether you're sparring or working to increase your strength and cardio endurance.",
+        "backgroundColor": "purple",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    },
+    {
+        "id": 5,
+        "category": "Gloves",
+        "name": "Gloves Gold Black",
+        "image": "gold black",
+        "price": 49,
+        "description": "Everlast® Pro Style Elite Gloves are ideal for sparring, heavy bag & mitt workouts. They feature premium synthetic leather along with superior construction increases durability. Get the most out of your nest workout whether you're sparring or working to increase your strength and cardio endurance.",
+        "backgroundColor": "gold",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    },
+    {
+        "id": 6,
+        "category": "Gloves",
+        "name": "Gloves Gray White",
+        "image": "gray white",
+        "price": 52,
+        "description": "Designed with Powerlock Technology, the Evarlast® Powerlock Training Gloves feature and ergonomic layered construction that puts your hand into a natural fist positioin.",
+        "backgroundColor": "white",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    },
+    {
+        "id": 7,
+        "category": "Gloves",
+        "name": "Gloves Black White",
+        "image": "black white",
+        "price": 52,
+        "description": "Designed with Powerlock Technology, the Evarlast® Powerlock Training Gloves feature and ergonomic layered construction that puts your hand into a natural fist positioin.",
+        "backgroundColor": "gray",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    },
+    {
+        "id": 8,
+        "category": "Gloves",
+        "name": "Gloves Black",
+        "image": "black",
+        "price": 49,
+        "description": "Everlast® Pro Style Elite Gloves are ideal for sparring, heavy bag & mitt workouts. They feature premium synthetic leather along with superior construction increases durability. Get the most out of your nest workout whether you're sparring or working to increase your strength and cardio endurance.",
+        "backgroundColor": "black",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    },
+    {
+        "id": 9,
+        "category": "Helmets",
+        "name": "Helmet Orange",
+        "image": "h orange",
+        "price": 59,
+        "description": "Protect your most valuable assets with the Ringside Competition Open Face Boxing Headgear. The lightweight headgear has a customizable fit for comfort in the ring.",
+        "backgroundColor": "orange",
+        "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+        "id": 10,
+        "category": "Helmets",
+        "name": "Helmet Red Black White",
+        "image": "h red black white",
+        "price": 71,
+        "description": "Designed for the seasoned MMA pros and beginners, the Ringside Mexican-Style Headgear is made to deliver unbeatagle protection as soon as you step into a cage. The durable leather shell provides proper defense from hard exchanges and offers dual elastic panels for a secure, custom fit. The rear and top of the headgear also features a rear hook and loop panel, and three-pronged hook and loop adjustment straps for all around adjustments.",
+        "backgroundColor": "dark red",
+        "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+        "id": 11,
+        "category": "Helmets",
+        "name": "Helmet Red White",
+        "image": "h red white",
+        "price": 60,
+        "description": "Get more out of your workout with the Ringside Deluxe Face Saver Boxing Headgear. Spar with complete protection in this efficient headgear designed to prevent powerful punches from coming into contact with your face. Face Saver Boxing Headgear is adjustable with  a rear closure and lace top for a secure, custom fit.",
+        "backgroundColor": "red",
+        "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+        "id": 12,
+        "category": "Helmets",
+        "name": "Helmet White",
+        "image": "h white",
+        "price": 59,
+        "description": "Protect your most valuable assets with the Ringside Competition Open Face Boxing Headgear. The lightweight headgear has a customizable fit for comfort in the ring.",
+        "backgroundColor": "white",
+        "sizes": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+        "id": 13,
+        "category": "Boxing Rings",
+        "name": "Ring Black Red",
+        "image": "r black red",
+        "price": 203,
+        "description": "A Competition Boxing Ring, will be the finest boxing ring you could ever own.  Our unique design is many times stronger than that of other manufacturers.  We use super strong structural steel in all of our rings, while others use thin wall steel tubing.  Our quick, no bolt, assembly process assures you that you can sit this ring up and take it down quickly and easily and transport or store your ring for the next event. Advanced assembly feature allows for quicker installation with only minimal hardware required. Sets up at elevated USA Boxing and professional boxing sanctioning commission regulations 36” floor height for shows and professional sanctioned events.",
+        "backgroundColor": "black",
+        "sizes": ["4*4", "5*5", "6*6", "7*7"]
+    },
+    {
+        "id": 14,
+        "category": "Boxing Rings",
+        "name": "Ring Blue",
+        "image": "r blue",
+        "price": 250,
+        "description": "A Competition Boxing Ring, will be the finest boxing ring you could ever own.  Our unique design is many times stronger than that of other manufacturers.  We use super strong structural steel in all of our rings, while others use thin wall steel tubing.  Our quick, no bolt, assembly process assures you that you can sit this ring up and take it down quickly and easily and transport or store your ring for the next event. Advanced assembly feature allows for quicker installation with only minimal hardware required. Sets up at elevated USA Boxing and professional boxing sanctioning commission regulations 36” floor height for shows and professional sanctioned events.",
+        "backgroundColor": "blue",
+        "sizes": ["4*4", "5*5", "6*6", "7*7"]
+    },
+    {
+        "id": 15,
+        "category": "Boxing Rings",
+        "name": "Ring White Black",
+        "image": "r white black",
+        "price": 250,
+        "description": "A Competition Boxing Ring, will be the finest boxing ring you could ever own.  Our unique design is many times stronger than that of other manufacturers.  We use super strong structural steel in all of our rings, while others use thin wall steel tubing.  Our quick, no bolt, assembly process assures you that you can sit this ring up and take it down quickly and easily and transport or store your ring for the next event. Advanced assembly feature allows for quicker installation with only minimal hardware required. Sets up at elevated USA Boxing and professional boxing sanctioning commission regulations 36” floor height for shows and professional sanctioned events.",
+        "backgroundColor": "gray",
+        "sizes": ["4*4", "5*5", "6*6", "7*7"]
+    },
+    {
+        "id": 16,
+        "category": "Boxing Rings",
+        "name": "Ring Black Red(On floor)",
+        "image": "r black red on floor",
+        "price": 186,
+        "description": "A Competition Boxing Ring, will be the finest boxing ring you could ever own.  Our unique design is many times stronger than that of other manufacturers.  We use super strong structural steel in all of our rings, while others use thin wall steel tubing.  Our quick, no bolt, assembly process assures you that you can sit this ring up and take it down quickly and easily and transport or store your ring for the next event. Advanced assembly feature allows for quicker installation with only minimal hardware required. Sets up at elevated USA Boxing and professional boxing sanctioning commission regulations 36” floor height for shows and professional sanctioned events.",
+        "backgroundColor": "red black",
+        "sizes": ["4*4", "5*5", "6*6", "7*7"]
+    },
+    {
+        "id": 17,
+        "category": "Boxing Rings",
+        "name": "Ring Black Yellow(On floor)",
+        "image": "r black yellow on floor",
+        "price": 186,
+        "description": "A Competition Boxing Ring, will be the finest boxing ring you could ever own.  Our unique design is many times stronger than that of other manufacturers.  We use super strong structural steel in all of our rings, while others use thin wall steel tubing.  Our quick, no bolt, assembly process assures you that you can sit this ring up and take it down quickly and easily and transport or store your ring for the next event. Advanced assembly feature allows for quicker installation with only minimal hardware required. Sets up at elevated USA Boxing and professional boxing sanctioning commission regulations 36” floor height for shows and professional sanctioned events.",
+        "backgroundColor": "yellow black",
+        "sizes": ["4*4", "5*5", "6*6", "7*7"]
+    },
+    {
+        "id": 18,
+        "category": "Boxing Rings",
+        "name": "Ring Blue(On floor)",
+        "image": "r blue on floor",
+        "price": 186,
+        "description": "A Competition Boxing Ring, will be the finest boxing ring you could ever own.  Our unique design is many times stronger than that of other manufacturers.  We use super strong structural steel in all of our rings, while others use thin wall steel tubing.  Our quick, no bolt, assembly process assures you that you can sit this ring up and take it down quickly and easily and transport or store your ring for the next event. Advanced assembly feature allows for quicker installation with only minimal hardware required. Sets up at elevated USA Boxing and professional boxing sanctioning commission regulations 36” floor height for shows and professional sanctioned events.",
+        "backgroundColor": "blue",
+        "sizes": ["4*4", "5*5", "6*6", "7*7"]
+    },
+    {
+        "id": 19,
+        "category": "Boxing Rings",
+        "name": "Ring White(On floor)",
+        "image": "r white on floor",
+        "price": 186,
+        "description": "A Competition Boxing Ring, will be the finest boxing ring you could ever own.  Our unique design is many times stronger than that of other manufacturers.  We use super strong structural steel in all of our rings, while others use thin wall steel tubing.  Our quick, no bolt, assembly process assures you that you can sit this ring up and take it down quickly and easily and transport or store your ring for the next event. Advanced assembly feature allows for quicker installation with only minimal hardware required. Sets up at elevated USA Boxing and professional boxing sanctioning commission regulations 36” floor height for shows and professional sanctioned events.",
+        "backgroundColor": "white",
+        "sizes": ["4*4", "5*5", "6*6", "7*7"]
+    },
+    {
+        "id": 20,
+        "category": "Hand Wraps",
+        "name": "Hand Wraps Black",
+        "image": "w black",
+        "price": 9,
+        "description": "Perfect for use by juniors and women, the Everlast ® 120” Cotton Hand Wraps are ideal for individuals with small hands and those looking for a shorter hand wrap. Hands and wrists will be safe and supported by the sturdy and slightly elastic construction. A thumb strap and hook and loop closure ensure a secure fit during use. The Everlast® 120” Cotton Hand Wraps are 100% machine washable.",
+        "backgroundColor": "black",
+        "sizes": ["120-inch", "180-inch"]
+    },
+    {
+        "id": 21,
+        "category": "Hand Wraps",
+        "name": "Hand Wraps Blue",
+        "image": "w blue",
+        "price": 9,
+        "description": "Perfect for use by juniors and women, the Everlast ® 120” Cotton Hand Wraps are ideal for individuals with small hands and those looking for a shorter hand wrap. Hands and wrists will be safe and supported by the sturdy and slightly elastic construction. A thumb strap and hook and loop closure ensure a secure fit during use. The Everlast® 120” Cotton Hand Wraps are 100% machine washable.",
+        "backgroundColor": "blue",
+        "sizes": ["120-inch", "180-inch"]
+    },
+    {
+        "id": 22,
+        "category": "Hand Wraps",
+        "name": "Hand Wraps Red",
+        "image": "w red",
+        "price": 9,
+        "description": "Perfect for use by juniors and women, the Everlast ® 120” Cotton Hand Wraps are ideal for individuals with small hands and those looking for a shorter hand wrap. Hands and wrists will be safe and supported by the sturdy and slightly elastic construction. A thumb strap and hook and loop closure ensure a secure fit during use. The Everlast® 120” Cotton Hand Wraps are 100% machine washable.",
+        "backgroundColor": "red",
+        "sizes": ["120-inch", "180-inch"]
+    },
+    {
+        "id": 23,
+        "category": "Hand Wraps",
+        "name": "Hand Wraps Pink",
+        "image": "w pink",
+        "price": 9,
+        "description": "Perfect for use by juniors and women, the Everlast ® 120” Cotton Hand Wraps are ideal for individuals with small hands and those looking for a shorter hand wrap. Hands and wrists will be safe and supported by the sturdy and slightly elastic construction. A thumb strap and hook and loop closure ensure a secure fit during use. The Everlast® 120” Cotton Hand Wraps are 100% machine washable.",
+        "backgroundColor": "pink",
+        "sizes": ["120-inch", "180-inch"]
+    },
+    {
+        "id": 24,
+        "category": "Hand Wraps",
+        "name": "Hand Wraps White",
+        "image": "w white",
+        "price": 9,
+        "description": "Perfect for use by juniors and women, the Everlast ® 120” Cotton Hand Wraps are ideal for individuals with small hands and those looking for a shorter hand wrap. Hands and wrists will be safe and supported by the sturdy and slightly elastic construction. A thumb strap and hook and loop closure ensure a secure fit during use. The Everlast® 120” Cotton Hand Wraps are 100% machine washable.",
+        "backgroundColor": "white",
+        "sizes": ["120-inch", "180-inch"]
+    },
+    {
+        "id": 25,
+        "category": "Heavy Bags",
+        "name": "Heavy Bag White Red",
+        "image": "b white red",
+        "price": 229,
+        "description": "Perfect punches and jabs on the Combat® Filled Heavy Bag. This smooth-to-the-touch heavy bag is constructed from leather for increased durability to withstand punch after punch. The D-ring on the bottom of the bag allows for increased stability for mobilizing your target. A chain and swivel are included to customize your workout and promote movement. Swing into action with the Combat® Filled Heavy Bag.",
+        "backgroundColor": "red",
+        "sizes": ["40lb", "70lb", "100lb", "200lb"]
+    },
+    {
+        "id": 26,
+        "category": "Heavy Bags",
+        "name": "Heavy Bag Black Red",
+        "image": "b black red",
+        "price": 200,
+        "description": "Develop serious striking strength with the Ringside® 200 lb. Soft Filled Heavy Bag. Made with more experienced fighters in mind, this bag can withstand greater force from strikes. The soft shredded textile filling offers ample resistance for hard hits. Whether you’re working on technique or conditioning drills, the bag’s 2” foam liner lessens the impact on your joints and ligaments.",
+        "backgroundColor": "red black",
+        "sizes": ["40lb", "70lb", "100lb", "200lb"]
+    },
+    {
+        "id": 27,
+        "category": "Heavy Bags",
+        "name": "Heavy Bag Black Red(2)",
+        "image": "b black red-1",
+        "price": 59,
+        "description": "The Everlast® Nevatear™ 40 lb. Heavy Bag is created with a specially blended filler mix of sanitized synthetic and natural fibers provides resilient shock absorbency. Premium Nevatear™ material with reinforced webbing provides functionality and durability. Heavy duty straps provide security and safety, perfect for many age groups and levels.",
+        "backgroundColor": "dark red",
+        "sizes": ["40lb", "70lb", "100lb", "200lb"]
+    },
+    {
+        "id": 28,
+        "category": "Heavy Bags",
+        "name": "Heavy Bag Black White",
+        "image": "b black white",
+        "price": 59,
+        "description": "The Everlast® Nevatear™ 40 lb. Heavy Bag is created with a specially blended filler mix of sanitized synthetic and natural fibers provides resilient shock absorbency. Premium Nevatear™ material with reinforced webbing provides functionality and durability. Heavy duty straps provide security and safety, perfect for many age groups and levels.",
+        "backgroundColor": "gray",
+        "sizes": ["40lb", "70lb", "100lb", "200lb"]
+    },
+    {
+        "id": 29,
+        "category": "Heavy Bags",
+        "name": "Heavy Bag Red Black",
+        "image": "b black red-1",
+        "price": 59,
+        "description": "The Everlast® Nevatear™ 40 lb. Heavy Bag is created with a specially blended filler mix of sanitized synthetic and natural fibers provides resilient shock absorbency. Premium Nevatear™ material with reinforced webbing provides functionality and durability. Heavy duty straps provide security and safety, perfect for many age groups and levels.",
+        "backgroundColor": "orange",
+        "sizes": ["40lb", "70lb", "100lb", "200lb"]
+    },
+    {
+        "id": 30,
+        "category": "Heavy Bags",
+        "name": "Heavy Bag White Black",
+        "image": "b white black",
+        "price": 59,
+        "description": "The Everlast® Nevatear™ 40 lb. Heavy Bag is created with a specially blended filler mix of sanitized synthetic and natural fibers provides resilient shock absorbency. Premium Nevatear™ material with reinforced webbing provides functionality and durability. Heavy duty straps provide security and safety, perfect for many age groups and levels.",
+        "backgroundColor": "white",
+        "sizes": ["40lb", "70lb", "100lb", "200lb"]
+    },
+    {
+        "id": 31,
+        "category": "Punch Mitts",
+        "name": "Punch Mitts Black",
+        "image": "m black",
+        "price": 69,
+        "description": "Enhance your punching technique with the Combat Sports® Punch Mitts. Compact and durable, these punch mitts are made of 100% leather for long-lasting protection. The pinpointed center target allows you to develop accuracy, while the internal wrist arch provides superior support and mobility. Let the Combat Sports® Punch Mitts take the impact during your training routines.",
+        "backgroundColor": "gray",
+        "sizes": ["8oz", "10oz", "12oz"]
+    },
+    {
+        "id": 32,
+        "category": "Punch Mitts",
+        "name": "Punch Mitts Blue",
+        "image": "m blue",
+        "price": 49,
+        "description": "Enhance your punching technique with the Combat Sports® Punch Mitts. Compact and durable, these punch mitts are made of 100% leather for long-lasting protection. The pinpointed center target allows you to develop accuracy, while the internal wrist arch provides superior support and mobility. Let the Combat Sports® Punch Mitts take the impact during your training routines.",
+        "backgroundColor": "gray",
+        "sizes": ["8oz", "10oz", "12oz"]
+    },
+    {
+        "id": 33,
+        "category": "Punch Mitts",
+        "name": "Punch Mitts Red Black",
+        "image": "m red black",
+        "price": 49,
+        "description": "Enhance your punching technique with the Combat Sports® Punch Mitts. Compact and durable, these punch mitts are made of 100% leather for long-lasting protection. The pinpointed center target allows you to develop accuracy, while the internal wrist arch provides superior support and mobility. Let the Combat Sports® Punch Mitts take the impact during your training routines.",
+        "backgroundColor": "dark red",
+        "sizes": ["8oz", "10oz", "12oz"]
+    },
+    {
+        "id": 34,
+        "category": "Punch Mitts",
+        "name": "Punch Mitts Red White",
+        "image": "m black",
+        "price": 69,
+        "description": "Enhance your punching technique with the Combat Sports® Punch Mitts. Compact and durable, these punch mitts are made of 100% leather for long-lasting protection. The pinpointed center target allows you to develop accuracy, while the internal wrist arch provides superior support and mobility. Let the Combat Sports® Punch Mitts take the impact during your training routines.",
+        "backgroundColor": "gray",
+        "sizes": ["8oz", "10oz", "12oz"]
+    }
+]

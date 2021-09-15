@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Gloves",
+        "image": "icon-gloves"
+    },
+    {
+        "id": 2,
+        "name": "Helmets",
+        "image": "icon-helmet"
+    },
+    {
+        "id": 3,
+        "name": "Boxing Rings",
+        "image": "icon-ring"
+    },
+    {
+        "id": 4,
+        "name": "Hand Wraps",
+        "image": "icon-tape"
+    },
+    {
+        "id": 5,
+        "name": "Punch Mitts",
+        "image": "icon-mitt"
+    },
+    {
+        "id": 6,
+        "name": "Heavy Bags",
+        "image": "icon-bag"
+    }
+]
